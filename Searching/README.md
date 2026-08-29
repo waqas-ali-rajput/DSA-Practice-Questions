@@ -1,10 +1,15 @@
 # Searching
 
-This folder contains searching algorithms and related problems.
+This folder contains searching algorithms and related problems implemented in C++.
 
-## Topics
+## Topics Covered
 
 - Linear Search
-- Linear Search Function
 - Binary Search
 - First and Last Occurrence
+
+## Learning Objectives
+
+- Understand different searching techniques
+- Compare search efficiencies
+- Analyze time complexity
